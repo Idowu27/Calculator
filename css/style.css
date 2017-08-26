@@ -1,0 +1,21 @@
+#calc{
+  text-align:center;
+  margin:auto;
+}
+
+#screen{
+  border: 1px solid #000;
+  height: 50px;
+  width: 200px;
+  margin:auto;
+}
+
+.row{
+  display:inline-block;
+  padding: 10px 10px;
+
+}
+.btn{
+  padding: 10px;
+  border: 1px solid #000;
+}
